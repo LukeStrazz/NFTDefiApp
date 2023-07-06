@@ -6,8 +6,8 @@ Welcome to my NFT App! This application allows users to explore, buy, and sell n
 ------------------------------------
 
 # Features:
-Browse and search for NFTs
-View detailed information about individual NFTs
-Buy and sell NFTs securely
-Manage your NFT collection
-Connect and interact with various blockchain networks
+- Browse and search for NFTs
+- View detailed information about individual NFTs
+- Buy and sell NFTs securely
+- Manage your NFT collection
+- Connect and interact with various blockchain networks
